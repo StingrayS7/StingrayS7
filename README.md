@@ -45,7 +45,7 @@
 
 * 2024 Разработчик нейросетей, The Founder (профессиональная переподготовка)
 
-* 2022 [Разработчик Java Script, Udemy (повышение квалификации)](https://drive.google.com/file/d/1O51_eolQPfMv21ZftBPQ3OQi4xFqlb_x/view?usp=sharing)
+* 2023 [Разработчик Java Script, Udemy (повышение квалификации)](https://drive.google.com/file/d/1O51_eolQPfMv21ZftBPQ3OQi4xFqlb_x/view?usp=sharing)
 
 * 2021 Агроном, Чувашский государственный аграрный университет (магистр)
 
