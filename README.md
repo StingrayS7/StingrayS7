@@ -1,5 +1,5 @@
 ## Привет, меня зовут Иван 👋
-
+---
 #sdfsdf
 
 ![StingrayS7 GitHub stats](https://github-readme-stats.vercel.app/api?username=StingrayS7&theme=algolia&show_icons=true)
