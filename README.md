@@ -1,9 +1,14 @@
 ## Привет, меня зовут Иван 👋
 ---
-#sdfsdf
-
 ![StingrayS7 GitHub stats](https://github-readme-stats.vercel.app/api?username=StingrayS7&theme=algolia&show_icons=true)
-[![StingrayS7 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StingrayS7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![StingrayS7 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StingrayS7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+## ML/DL-инженер
+
+🌍 Я живу в Чебоксарах
+👨‍🎓 Учусь в академии нейросетей The Founder
+📞 Вы можете связаться со мной по TG: @StingrayS
+
 
 <!--
 **StingrayS7/StingrayS7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
