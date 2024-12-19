@@ -1,4 +1,4 @@
-# Привет, меня зовут Иван 👋
+# Привет, меня зовут Иван 👋👋
 ---
 ![StingrayS7 GitHub stats](https://github-readme-stats.vercel.app/api?username=StingrayS7&theme=algolia&show_icons=true)
 [![StingrayS7 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StingrayS7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
