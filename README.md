@@ -40,7 +40,7 @@
 
 **Основные технологии:** Pandas, Keras, TensorFlow, Albumentations.
 
-📌 [**DCGAN сеть для генерации изображений **](https://github.com/StingrayS7/dcgan)
+📌 [**DCGAN сеть для генерации изображений**](https://github.com/StingrayS7/dcgan)
 
 Создал DCGAN нейросеть для генерации изображений, обученную на [fashion_mnist](https://github.com/zalandoresearch/fashion-mnist)
 
